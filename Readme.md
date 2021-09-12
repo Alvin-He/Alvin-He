@@ -6,5 +6,3 @@ I'm a 9th Grader in San Francisco. Here's some things you need to know about me:
    4. A Roblox Developer(NEW), but don't ask me about Lua, I'm still Learning it 
    5. Post random stuff on github ........
    6. My discord: Alvin66#2027 if you would like to talk :) 
-
-The Project I'm currently working on: RAI -- An advanced static luau AI system. Well it's mostly analystic. But not bad for a first big project. 
